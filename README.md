@@ -1,1 +1,1 @@
-# mytestapp
+# testProfitPredictionApp
